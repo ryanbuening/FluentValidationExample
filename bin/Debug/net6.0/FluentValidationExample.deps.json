@@ -1,0 +1,189 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "FluentValidationExample/1.0.0": {
+        "dependencies": {
+          "Blazored.FluentValidation": "2.0.1"
+        },
+        "runtime": {
+          "FluentValidationExample.dll": {}
+        }
+      },
+      "Blazored.FluentValidation/2.0.1": {
+        "dependencies": {
+          "FluentValidation": "10.2.1",
+          "Microsoft.AspNetCore.Components": "3.1.14",
+          "Microsoft.AspNetCore.Components.Web": "3.1.14"
+        },
+        "runtime": {
+          "lib/netstandard2.1/Blazored.FluentValidation.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "FluentValidation/10.2.1": {
+        "runtime": {
+          "lib/net5.0/FluentValidation.dll": {
+            "assemblyVersion": "9.0.0.0",
+            "fileVersion": "10.2.1.0"
+          }
+        }
+      },
+      "Microsoft.AspNetCore.Authorization/3.1.14": {
+        "dependencies": {
+          "Microsoft.AspNetCore.Metadata": "3.1.14",
+          "Microsoft.Extensions.Logging.Abstractions": "3.1.14",
+          "Microsoft.Extensions.Options": "3.1.14"
+        }
+      },
+      "Microsoft.AspNetCore.Components/3.1.14": {
+        "dependencies": {
+          "Microsoft.AspNetCore.Authorization": "3.1.14",
+          "Microsoft.AspNetCore.Components.Analyzers": "3.1.14",
+          "Microsoft.JSInterop": "3.1.14"
+        }
+      },
+      "Microsoft.AspNetCore.Components.Analyzers/3.1.14": {},
+      "Microsoft.AspNetCore.Components.Forms/3.1.14": {
+        "dependencies": {
+          "Microsoft.AspNetCore.Components": "3.1.14"
+        }
+      },
+      "Microsoft.AspNetCore.Components.Web/3.1.14": {
+        "dependencies": {
+          "Microsoft.AspNetCore.Components": "3.1.14",
+          "Microsoft.AspNetCore.Components.Forms": "3.1.14",
+          "Microsoft.Extensions.DependencyInjection": "3.1.14",
+          "Microsoft.JSInterop": "3.1.14"
+        }
+      },
+      "Microsoft.AspNetCore.Metadata/3.1.14": {},
+      "Microsoft.Extensions.DependencyInjection/3.1.14": {
+        "dependencies": {
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "3.1.14"
+        }
+      },
+      "Microsoft.Extensions.DependencyInjection.Abstractions/3.1.14": {},
+      "Microsoft.Extensions.Logging.Abstractions/3.1.14": {},
+      "Microsoft.Extensions.Options/3.1.14": {
+        "dependencies": {
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "3.1.14",
+          "Microsoft.Extensions.Primitives": "3.1.14"
+        }
+      },
+      "Microsoft.Extensions.Primitives/3.1.14": {},
+      "Microsoft.JSInterop/3.1.14": {}
+    }
+  },
+  "libraries": {
+    "FluentValidationExample/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Blazored.FluentValidation/2.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-e5S/P5Gy2/y2lbxcEio8B/tRLCJcxdMfGJeKPEzt7bSYPuM5xZKVhPRQLjyIYl8mL9EjJXE3Ucx8chZFFJ89ow==",
+      "path": "blazored.fluentvalidation/2.0.1",
+      "hashPath": "blazored.fluentvalidation.2.0.1.nupkg.sha512"
+    },
+    "FluentValidation/10.2.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-ZFyVk+AXiWjML6M201GUbkhrmrUfd1U55LmOPOEHpw2bQ+STi0TIilXX3KlWvqt5AX5qSu+B1d/s/Ik5p6Tu3Q==",
+      "path": "fluentvalidation/10.2.1",
+      "hashPath": "fluentvalidation.10.2.1.nupkg.sha512"
+    },
+    "Microsoft.AspNetCore.Authorization/3.1.14": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-0v8C2y8lw/nWaScNF94Dypj2oLnPKF0DcvStj8J8SORCSaSc9jc4Y+57huqXJseEVgQGBidcb8lV6AtSZDwQmg==",
+      "path": "microsoft.aspnetcore.authorization/3.1.14",
+      "hashPath": "microsoft.aspnetcore.authorization.3.1.14.nupkg.sha512"
+    },
+    "Microsoft.AspNetCore.Components/3.1.14": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-SwRBh85cWkQel/GH8rV/6EKJWyA3uwG8h9c6U+BQuO0AVRO4mk0z0hGx2BLjA3oLMeX9T9vfHxWdpiE8iYagZA==",
+      "path": "microsoft.aspnetcore.components/3.1.14",
+      "hashPath": "microsoft.aspnetcore.components.3.1.14.nupkg.sha512"
+    },
+    "Microsoft.AspNetCore.Components.Analyzers/3.1.14": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-IEoLcR/w2f0pLzsN37KVVe3fkvlnpfr8yCqVMDCa+GA3JyIlxLxYap4LJ1lgvwswyW8cgWkSK/o8mKkNbEc3qw==",
+      "path": "microsoft.aspnetcore.components.analyzers/3.1.14",
+      "hashPath": "microsoft.aspnetcore.components.analyzers.3.1.14.nupkg.sha512"
+    },
+    "Microsoft.AspNetCore.Components.Forms/3.1.14": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-dK2aHpD6s8FxL9hljCJHzKF4ko2CRj8SMkNTkH+jquth8/UOY0t0+CGkEJveCOTcLfUFX4mE8eq/ny1O90MXKg==",
+      "path": "microsoft.aspnetcore.components.forms/3.1.14",
+      "hashPath": "microsoft.aspnetcore.components.forms.3.1.14.nupkg.sha512"
+    },
+    "Microsoft.AspNetCore.Components.Web/3.1.14": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-EhE4+HVr7OH8Va128E7LHoRCQNVNayYFaikj1OYfhrsd54jnaegHwTDFDZ6dGb//LEw+oZd7gdx/eAOKCo4qqg==",
+      "path": "microsoft.aspnetcore.components.web/3.1.14",
+      "hashPath": "microsoft.aspnetcore.components.web.3.1.14.nupkg.sha512"
+    },
+    "Microsoft.AspNetCore.Metadata/3.1.14": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Uiyh7O3F7GPVTmFq/aJ8Xp50skXZdKpGLLxiIv8KcAjgA/+hmUm5Sso+9xq2BV+PIiYJ6kBPI5Pi9GfJZy32Tg==",
+      "path": "microsoft.aspnetcore.metadata/3.1.14",
+      "hashPath": "microsoft.aspnetcore.metadata.3.1.14.nupkg.sha512"
+    },
+    "Microsoft.Extensions.DependencyInjection/3.1.14": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-8Y0ERNlu5zQAcrh9k6E+6ZHHA9NuBwK9N7RqEpx8eyMbl1DOHblerXFLtuKoBY1x+GafDdZXKEmfU7DEfCSb7g==",
+      "path": "microsoft.extensions.dependencyinjection/3.1.14",
+      "hashPath": "microsoft.extensions.dependencyinjection.3.1.14.nupkg.sha512"
+    },
+    "Microsoft.Extensions.DependencyInjection.Abstractions/3.1.14": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-DKI1KGqMqIRV9fc4UKlLsYIbFBz+syMcXwnpI2G1Sc5GNKSlx8yl8uQEJR6e5DAxTla+kVd8JOa0jHcvy7Lm7A==",
+      "path": "microsoft.extensions.dependencyinjection.abstractions/3.1.14",
+      "hashPath": "microsoft.extensions.dependencyinjection.abstractions.3.1.14.nupkg.sha512"
+    },
+    "Microsoft.Extensions.Logging.Abstractions/3.1.14": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-pEKsBsD+nl4MHs8qnv/QiL3uwQMRZCVmeOmdt5NJwKO5ndNc/H9YD/9nmVvr3vlAtRcAj56HZMhNQ/NHbQTOSw==",
+      "path": "microsoft.extensions.logging.abstractions/3.1.14",
+      "hashPath": "microsoft.extensions.logging.abstractions.3.1.14.nupkg.sha512"
+    },
+    "Microsoft.Extensions.Options/3.1.14": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-t9a+56OwOoUIluRH/e1o2yyMMOKQuVVFFChJcRRQQdb6z5BS0PS5JSjShWygZ/V3AbU7xoIKtqKopx8NID6oNA==",
+      "path": "microsoft.extensions.options/3.1.14",
+      "hashPath": "microsoft.extensions.options.3.1.14.nupkg.sha512"
+    },
+    "Microsoft.Extensions.Primitives/3.1.14": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-OusiQZUlEHI5MwfIymyJgY8nN0bKqCsGvALG0khcNkO9h8H8d4wtakaKBQORDlKkYYLSq/pap7wRUxh6eLs3vg==",
+      "path": "microsoft.extensions.primitives/3.1.14",
+      "hashPath": "microsoft.extensions.primitives.3.1.14.nupkg.sha512"
+    },
+    "Microsoft.JSInterop/3.1.14": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-z273B92mxaaK+gjsGaYg1awiqDAW9ru1vv6sMMNpjvhF3QZ4/dN2ESa3AwrJvQ3Y7SBYE2U1J4zPE+4CMGQMRQ==",
+      "path": "microsoft.jsinterop/3.1.14",
+      "hashPath": "microsoft.jsinterop.3.1.14.nupkg.sha512"
+    }
+  }
+}

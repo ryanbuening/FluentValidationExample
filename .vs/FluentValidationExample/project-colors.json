@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "9591ceb4-09ab-485b-8ed5-4d1e7b3ba7d8": {
+      "ProjectGuid": "9591ceb4-09ab-485b-8ed5-4d1e7b3ba7d8",
+      "DisplayName": "FluentValidationExample",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

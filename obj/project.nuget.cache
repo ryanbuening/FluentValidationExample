@@ -1,0 +1,26 @@
+{
+  "version": 2,
+  "dgSpecHash": "xCTTPEQdC6DE8fncD3wnkKuyW+pyc4qHxzzdnTp714r7OT0vnMWFzqArY3b+pQSbQi5WYKP6BANeRhX4GKvR+Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\buenry1\\Desktop\\FluentValidationExample\\FluentValidationExample.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\buenry1\\.nuget\\packages\\blazored.fluentvalidation\\2.0.1\\blazored.fluentvalidation.2.0.1.nupkg.sha512",
+    "C:\\Users\\buenry1\\.nuget\\packages\\fluentvalidation\\10.2.1\\fluentvalidation.10.2.1.nupkg.sha512",
+    "C:\\Users\\buenry1\\.nuget\\packages\\microsoft.aspnetcore.authorization\\3.1.14\\microsoft.aspnetcore.authorization.3.1.14.nupkg.sha512",
+    "C:\\Users\\buenry1\\.nuget\\packages\\microsoft.aspnetcore.components\\3.1.14\\microsoft.aspnetcore.components.3.1.14.nupkg.sha512",
+    "C:\\Users\\buenry1\\.nuget\\packages\\microsoft.aspnetcore.components.analyzers\\3.1.14\\microsoft.aspnetcore.components.analyzers.3.1.14.nupkg.sha512",
+    "C:\\Users\\buenry1\\.nuget\\packages\\microsoft.aspnetcore.components.forms\\3.1.14\\microsoft.aspnetcore.components.forms.3.1.14.nupkg.sha512",
+    "C:\\Users\\buenry1\\.nuget\\packages\\microsoft.aspnetcore.components.web\\3.1.14\\microsoft.aspnetcore.components.web.3.1.14.nupkg.sha512",
+    "C:\\Users\\buenry1\\.nuget\\packages\\microsoft.aspnetcore.metadata\\3.1.14\\microsoft.aspnetcore.metadata.3.1.14.nupkg.sha512",
+    "C:\\Users\\buenry1\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\3.1.14\\microsoft.extensions.dependencyinjection.3.1.14.nupkg.sha512",
+    "C:\\Users\\buenry1\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.1.14\\microsoft.extensions.dependencyinjection.abstractions.3.1.14.nupkg.sha512",
+    "C:\\Users\\buenry1\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\3.1.14\\microsoft.extensions.logging.abstractions.3.1.14.nupkg.sha512",
+    "C:\\Users\\buenry1\\.nuget\\packages\\microsoft.extensions.options\\3.1.14\\microsoft.extensions.options.3.1.14.nupkg.sha512",
+    "C:\\Users\\buenry1\\.nuget\\packages\\microsoft.extensions.primitives\\3.1.14\\microsoft.extensions.primitives.3.1.14.nupkg.sha512",
+    "C:\\Users\\buenry1\\.nuget\\packages\\microsoft.jsinterop\\3.1.14\\microsoft.jsinterop.3.1.14.nupkg.sha512",
+    "C:\\Users\\buenry1\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.0-rc.1.21451.13\\microsoft.netcore.app.host.win-x64.6.0.0-rc.1.21451.13.nupkg.sha512",
+    "C:\\Users\\buenry1\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.0-rc.1.21451.3\\microsoft.windowsdesktop.app.ref.6.0.0-rc.1.21451.3.nupkg.sha512",
+    "C:\\Users\\buenry1\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.0-rc.1.21451.13\\microsoft.netcore.app.ref.6.0.0-rc.1.21451.13.nupkg.sha512"
+  ],
+  "logs": []
+}

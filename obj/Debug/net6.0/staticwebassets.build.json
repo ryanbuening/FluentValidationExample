@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "Hash": "z2duL5RNRkpOrB3XtaO4fp0wlTLu/CK6fF+niT3+HrY=",
+  "Source": "FluentValidationExample",
+  "BasePath": "_content/FluentValidationExample",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "FluentValidationExample\\wwwroot",
+      "Source": "FluentValidationExample",
+      "ContentRoot": "C:\\Users\\buenry1\\Desktop\\FluentValidationExample\\wwwroot\\",
+      "BasePath": "_content/FluentValidationExample",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\buenry1\\Desktop\\FluentValidationExample\\wwwroot\\css\\site.css",
+      "SourceId": "FluentValidationExample",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\buenry1\\Desktop\\FluentValidationExample\\wwwroot\\",
+      "BasePath": "_content/FluentValidationExample",
+      "RelativePath": "css/site.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\site.css"
+    },
+    {
+      "Identity": "C:\\Users\\buenry1\\Desktop\\FluentValidationExample\\wwwroot\\favicon.ico",
+      "SourceId": "FluentValidationExample",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\buenry1\\Desktop\\FluentValidationExample\\wwwroot\\",
+      "BasePath": "_content/FluentValidationExample",
+      "RelativePath": "favicon.ico",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\favicon.ico"
+    }
+  ]
+}

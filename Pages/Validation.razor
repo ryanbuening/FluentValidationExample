@@ -1,0 +1,18 @@
+﻿@page "/"
+
+<EditForm EditContext="EditContext" OnSubmit="() => Submit()">
+	<FluentValidationValidator />
+	<label>Form.PhoneNumber - Does show validation message onchange</label>
+	<br />
+	<InputText @bind-Value="Form.PhoneNumber" />
+	<ValidationMessage For="() => Form.PhoneNumber" />
+	<br />
+	<br />
+	<label>Form.Contact.PhoneNumber - Does NOT show validation message onchange</label>
+	<br />
+	<InputText @bind-Value="Form.Contact.PhoneNumber" />
+	<ValidationMessage For="() => Form.Contact.PhoneNumber" />
+	<br />
+	<br />
+	<button type="submit" class="btn btn-lg btn-primary float-end mt-3">Submit</button>
+</EditForm>
